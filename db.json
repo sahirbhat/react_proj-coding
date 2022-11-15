@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "sahir",
+      "desc": "faculty of computer science",
+      "col": "2",
+      "id": 1
+    },
+    {
+      "title": "zaira",
+      "desc": "faculty of humanity",
+      "col": " ",
+      "id": 2
+    },
+    {
+      "title": "faisal",
+      "desc": "advocate of high court",
+      "col": "2",
+      "id": 3
+    },
+    {
+      "title": "faisal",
+      "desc": "advocate of high court",
+      "col": "2",
+      "id": 4
+    }
+  ]
+}

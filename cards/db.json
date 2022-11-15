@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "title": "Apple",
+      "desc": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, United States. Apple is the largest technology company by revenue (totaling US$365.8 billion in 2021) and, as of June 2022, is the world's biggest company by market capitalization, the fourth-largest personal computer vendor by unit sales and second-largest mobile phone manufacturer.",
+      "col": " ",
+      "id": 12
+    },
+    {
+      "id": 18
+    },
+    {
+      "title": "amazon",
+      "desc": "Apple Inc. is an American multinational technology",
+      "col": "2",
+      "id": 19
+    },
+    {
+      "title": "amazon",
+      "desc": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, U",
+      "col": "3",
+      "id": 20
+    },
+    {
+      "id": 25
+    },
+    {
+      "title": "apple",
+      "desc": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, U",
+      "col": "1",
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "title": "amazon",
+      "desc": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, U",
+      "col": "3",
+      "id": 29
+    },
+    {
+      "title": "amazon",
+      "desc": "Amazon.com, Inc.[1] (/ˈæməzɒn/ AM-ə-zon) is an American multinational technology company focusing on",
+      "col": "3",
+      "id": 30
+    }
+  ]
+}
