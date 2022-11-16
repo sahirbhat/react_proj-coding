@@ -30,7 +30,7 @@ const [student, setStudent] = useState({
   async function onFormSubmit(e) {
     e.preventDefault()
     
-     await axios.post(`http://localhost:3333/posts`, student)
+     await axios.post(`https://63750d5208104a9c5f90ff72.mockapi.io/crudapi1`, student)
       setStudent('')
 
     

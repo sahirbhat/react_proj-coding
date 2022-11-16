@@ -1,28 +1,22 @@
 {
   "posts": [
     {
-      "title": "sahir",
-      "desc": "faculty of computer science",
-      "col": "2",
-      "id": 1
+      "title": "amazon",
+      "desc": "Amazon.com, Inc.[1] (/ˈæməzɒn/ AM-ə-zon) is an American multinational technology company focusing on",
+      "col": "1",
+      "id": 5
     },
     {
-      "title": "zaira",
-      "desc": "faculty of humanity",
-      "col": " ",
-      "id": 2
+      "title": "amazon",
+      "desc": "Amazon.com, Inc.[1] (/ˈæməzɒn/ AM-ə-zon) is an American multinational technology company focusing on",
+      "col": "2",
+      "id": 6
     },
     {
-      "title": "faisal",
-      "desc": "advocate of high court",
-      "col": "2",
-      "id": 3
-    },
-    {
-      "title": "faisal",
-      "desc": "advocate of high court",
-      "col": "2",
-      "id": 4
+      "title": "Apple",
+      "desc": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, U",
+      "col": "3",
+      "id": 11
     }
   ]
 }
